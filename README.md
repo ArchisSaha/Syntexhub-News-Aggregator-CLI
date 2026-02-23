@@ -1,4 +1,4 @@
-# News Aggregator CLI
+# Syntexhub News Aggregator CLI
 
 A command-line tool to fetch, filter, and export news articles from multiple sources using NewsAPI.
 
