@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.db
+.sqlite3
+.DS_Store
+.env
+venv/
+env/
+ENV/
+dist/
+build/
+*.egg-info/
+*.log
+.instance
+*.sqlite3
+*.sqlite
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Project specific
+*.db
+*.xlsx
+*.csv
+news.db
+*.db-journal
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Virtual Environment
+venv/
+env/
+ENV/
+myenv/
+virtualenv/
+
+# Python distribution
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+news.db
+*.db-journal
